@@ -1,0 +1,14 @@
+{
+  "name": "room",
+  "version": "1.0.0",
+  "description": "A simple Room online",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RG",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.3.5"
+  }
+}
